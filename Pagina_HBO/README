@@ -1,0 +1,22 @@
+Objetivo:
+O objetivo principal deste projeto foi duplo: em primeiro lugar, reproduzir com precisão o layout e o design da página inicial do HBO Max, e em segundo lugar, aprimorar a experiência do usuário por meio de um design responsivo e animações sutis, porém impactantes.
+
+Tecnologias Utilizadas:
+
+HTML5 e CSS3 para estrutura e estilo da página
+Media queries para criar uma experiência responsiva em diferentes dispositivos
+Desenvolvimento:
+
+1. Clonagem do Design:
+A primeira etapa do projeto envolveu a análise minuciosa do layout da página inicial do HBO Max. Utilizando HTML semântico e CSS moderno, recriei a estrutura da página, incluindo cabeçalho, seções de conteúdo, e rodapé. Tive o cuidado de replicar cores, fontes e tamanhos de texto para capturar a essência do design original.
+
+2. Responsividade:
+Uma parte crucial do projeto foi garantir que a página clonada fosse totalmente responsiva. Implementei media queries e técnicas de layout flexível para garantir que o design se adaptasse perfeitamente a diferentes tamanhos de tela, desde dispositivos móveis até desktops de alta resolução. Dessa forma, os usuários podem desfrutar da mesma experiência de qualidade em qualquer dispositivo.
+
+3. Animações Atraentes:
+Para tornar a página mais dinâmica e atraente, incorporei animações suaves e interativas. Ao rolar a página, os elementos surgem gradualmente, conferindo uma sensação de fluidez e elegância à experiência. Além disso, adicionei efeitos de hover em botões e elementos interativos, proporcionando uma resposta visual agradável ao usuário.
+
+4. Resultados e Conclusão:
+O resultado final do projeto é um clone responsivo da página inicial do HBO Max, com animações que elevam a experiência do usuário a um nível superior. Ao navegar pela página, os usuários se deparam com um design impressionante e se beneficiam de uma experiência perfeita em qualquer dispositivo.
+
+Para melhor visualização da pagina, peço para que baixem as imagens em seu computador.
